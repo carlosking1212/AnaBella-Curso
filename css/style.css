@@ -1,0 +1,44 @@
+
+.menu{
+	background-color: Wheat;
+	color: #20B2AA;	
+	height: 20%;
+	padding: 18px;
+}
+
+.conteudo{
+	background-color: #FFFFF0;
+	color: black;
+	padding: 18px;
+}
+
+.principal{
+	width: 100%;
+}
+
+.alinhamento{
+	text-align: center;
+}
+
+.bg-fotos{
+	border-color: Wheat;
+	border-width: 10px 10px 10px 10px;
+	border-style: solid;
+	width: 55%;
+}
+
+.cor1{
+	color: #DEB887;
+}
+
+body{
+	background: #d2d2c1 url('../imagens/fundo.png');
+	padding: 0 12%;
+}
+
+a{
+	color: #4b566a;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 5px;
+}
